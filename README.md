@@ -11,7 +11,7 @@ Developing game applications in C# using Unity. I have additional skills in usin
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainDevF&layout=compact"/></a>
 </p>
 <p align='center'>
-   📮 How to reach me: <a platednil@gmail.com</a>
+   📮 How to reach me: platednil@gmail.com
 </p>
 
 What I wanted to do
