@@ -1,8 +1,7 @@
 DANYLO KARPOV
 Developing game applications in C# using Unity. I have additional skills in using Git version control system.
 
-![![image](https://github.com/MainDevF/MainDevF/assets/68841717/79846725-f4f7-4765-9ad4-fba2108fa9cd)
-]({[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)})
+<img src="{animecibupeli@gmail.com}" />
 
 Austraße 29
 Siegen, Germany, 57072
