@@ -10,10 +10,9 @@ Developing game applications in C# using Unity. I have additional skills in usin
    <a href="https://github.com/romankh3/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainDevF&layout=compact"/></a>
 </p>
-
-Austraße 29
-Siegen, Germany, 57072
-📮 platednil@gmail.com
+<p align='center'>
+   📮 How to reach me: <a href='platednil@gmail.com</a>
+</p>
 
 What I wanted to do
 
