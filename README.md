@@ -1,7 +1,12 @@
 DANYLO KARPOV
 Developing game applications in C# using Unity. I have additional skills in using Git version control system.
 
-<img src="{animecibupeli@gmail.com}" />
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=MainDevF&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=MainDevF&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/romankh3/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainDevF&layout=compact"/></a>
+</p>
 
 Austraße 29
 Siegen, Germany, 57072
