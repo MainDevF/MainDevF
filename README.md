@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--- DANYLO KARPOV
+### DANYLO KARPOV
 Developing game applications in C# using Unity. I have additional skills in using Git version control system.
 
 
