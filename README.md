@@ -10,18 +10,7 @@ Developing game applications in C# using Unity. I have additional skills in usin
 
 Austraße 29
 Siegen, Germany, 57072
-+380 988492396
-animecibupeli@gmail.com
-
-ПРОЕКТЫ
-
-In the repositories pool requesters under the nickname  - Pepe_way (MainDevF)
-
-Slice Tower
-https://github.com/MainDevF/Slice-Tower.git
-https://fmj-games.itch.io/slice-tower
-
-
+📮 platednil@gmail.com
 
 What I wanted to do
 
