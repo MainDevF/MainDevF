@@ -1,5 +1,5 @@
 ### Hi I'm DANYLO👋
-<!--
+##
 Developing game applications in C# using Unity. I have additional skills in using Git version control system.
 
 
@@ -26,5 +26,3 @@ LANGUAGES
 Ukrainian (C-2)
 Russian (C-2)
 English (A-2)
-
--->
